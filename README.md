@@ -1,2 +1,2 @@
 # ma-crossover-analysis
-Quantitative analysis and backtesting of the Moving Average Crossover strategy on historical stock data using Python and Polars. Used strategies: Golden cross (50/200 SMA), Swing(20/50 SMA), Aggresive (10/20 SMA)
+Quantitative analysis and backtesting of the Moving Average Crossover strategy on historical stock data using Python. Used strategies: Golden cross (50/200 SMA), Swing(20/50 SMA), Aggresive (10/20 SMA)
